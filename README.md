@@ -1,4 +1,3 @@
-# AlumConnect
 # Alumni-Connect
 Une plateforme de partage d'expériences entre les étudiants actuels et les anciens étudiants est une excellente idée. 
 
